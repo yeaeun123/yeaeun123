@@ -2,8 +2,10 @@
 <div align="center">
   <img src="https://github.com/yeaeun123/yeaeun123/blob/output/github-contribution-grid-snake.svg">
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=yeaeun123&show_icons=true&theme=default"/>
 # 💪Skills
 ### Platforms & Languages
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -19,7 +21,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=#000000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
- <img src="https://github-readme-stats.vercel.app/api?username=yeaeun123&show_icons=true&theme=default"/>
+ 
 <!--
 **yeaeun123/yeaeun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
