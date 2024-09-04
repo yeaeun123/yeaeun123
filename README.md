@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github.com/yeaeun123/yeaeun123/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 **yeaeun123/yeaeun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
